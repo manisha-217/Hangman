@@ -1,0 +1,9 @@
+monitor
+keyboard
+joystick
+printer
+cpu
+floppy
+memory
+charger
+scanner
